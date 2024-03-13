@@ -1,0 +1,225 @@
+{
+    "players": [
+        {
+            "altnames": [
+                "PneuJai"
+            ],
+            "clientIds": [
+                "3234946093806593000",
+                "-1639195114"
+            ],
+            "ip": [
+                "127.0.0.1",
+                "192.168.128.102",
+                "UNASSIGNED_SYSTEM_ADDRESS"
+            ],
+            "gamertag": "PneuJai",
+            "xuid": "2535406028310496",
+            "uuid": "1d7983df-d68c-3569-9d80-ff52dd758083"
+        },
+        {
+            "altnames": [
+                "FairImpala41312"
+            ],
+            "clientIds": [
+                "1707721770613",
+                "1707723653652",
+                "1707736678848",
+                "1707871252829",
+                "1707884190580",
+                "1707890922232",
+                "1707909782948",
+                "1707997509075",
+                "1707997911704",
+                "1708001744710"
+            ],
+            "ip": [
+                "192.168.128.102"
+            ],
+            "gamertag": "FairImpala41312",
+            "xuid": "2535450866593375",
+            "uuid": "b3b6e03e-64a2-3778-abeb-857065c2ef36"
+        },
+        {
+            "altnames": [
+                "PEXkurann",
+                "PEXkoukunn"
+            ],
+            "clientIds": [
+                "1366212946476199000",
+                "1926739467",
+                "1060044105"
+            ],
+            "ip": [
+                "192.168.128.102",
+                "192.168.128.101",
+                "100.103.9.127"
+            ],
+            "gamertag": "PEXkurann",
+            "xuid": "2535467700286103",
+            "uuid": "fc63bacd-aaef-3125-be92-2fda55d2e5fe"
+        },
+        {
+            "altnames": [
+                "Gusto930"
+            ],
+            "clientIds": [
+                "1702154731"
+            ],
+            "ip": [
+                "192.168.128.102"
+            ],
+            "gamertag": "Gusto930",
+            "xuid": "2535418851957873",
+            "uuid": "124749dd-76c5-38a1-8694-6126e18d3bad"
+        },
+        {
+            "altnames": [
+                "zhizhangxb"
+            ],
+            "clientIds": [
+                "7324371427044070000"
+            ],
+            "ip": [
+                "192.168.128.102"
+            ],
+            "gamertag": "zhizhangxb",
+            "xuid": "2535434553119075",
+            "uuid": "919742b5-5f72-3cf4-b2d9-caeb55f426cb"
+        },
+        {
+            "altnames": [
+                "SuedAxis9989877"
+            ],
+            "clientIds": [
+                "-35949348"
+            ],
+            "ip": [
+                "192.168.128.102"
+            ],
+            "gamertag": "SuedAxis9989877",
+            "xuid": "2535466096481915",
+            "uuid": "384d51c1-0ff2-3faa-b222-1240064434f5"
+        },
+        {
+            "altnames": [
+                "PEXkoukunn"
+            ],
+            "clientIds": [
+                "-336274540"
+            ],
+            "ip": [
+                "192.168.128.102"
+            ],
+            "gamertag": "PEXkoukunn",
+            "xuid": "2535459105874433",
+            "uuid": "1d4252ab-2a2c-3dd8-9cae-c7ab0c3d6d90"
+        },
+        {
+            "altnames": [
+                "WholeFan759162"
+            ],
+            "clientIds": [
+                "1036259921750560600"
+            ],
+            "ip": [
+                "192.168.128.102"
+            ],
+            "gamertag": "WholeFan759162",
+            "xuid": "2535440547819469",
+            "uuid": "6c7dae13-38a6-3da1-819b-f2ae80e22db6"
+        },
+        {
+            "altnames": [
+                "SwimLynx4972874"
+            ],
+            "clientIds": [
+                "986370771573943000"
+            ],
+            "ip": [
+                "192.168.128.102"
+            ],
+            "gamertag": "SwimLynx4972874",
+            "xuid": "2535408498490246",
+            "uuid": "81a19019-4bf6-36d3-81c6-261a59355812"
+        },
+        {
+            "altnames": [
+                "SPTBT1024"
+            ],
+            "clientIds": [
+                "1823881069"
+            ],
+            "ip": [
+                "192.168.128.102"
+            ],
+            "gamertag": "SPTBT1024",
+            "xuid": "2535444623179458",
+            "uuid": "79e8d137-26eb-3432-aa8c-3c331ffcc9aa"
+        },
+        {
+            "altnames": [
+                "Kanata010122"
+            ],
+            "clientIds": [
+                "775688485",
+                "1083209661134721700"
+            ],
+            "ip": [
+                "192.168.128.102"
+            ],
+            "gamertag": "Kanata010122",
+            "xuid": "2535473606088602",
+            "uuid": "ec4b8b68-0bdf-3062-b663-650578742dec"
+        },
+        {
+            "altnames": [
+                "asobouyooooo"
+            ],
+            "clientIds": [
+                "3583414975930609700"
+            ],
+            "ip": [
+                "192.168.128.102"
+            ],
+            "gamertag": "asobouyooooo",
+            "xuid": "2535430624057338",
+            "uuid": "cb55048e-63f8-399d-b96e-30ccdb7ae0aa"
+        },
+        {
+            "altnames": [
+                "UserX0001"
+            ],
+            "clientIds": [
+                "7240123741680651000"
+            ],
+            "ip": [
+                "192.168.128.102"
+            ],
+            "gamertag": "UserX0001",
+            "xuid": "2535435458275262",
+            "uuid": "ace0a88c-28ec-340a-9789-578be919cccb"
+        },
+        {
+            "altnames": [
+                "VampireJr192"
+            ],
+            "clientIds": [
+                "5228100044668322000"
+            ],
+            "ip": [
+                "192.168.128.102"
+            ],
+            "gamertag": "VampireJr192",
+            "xuid": "2535410072352442",
+            "uuid": "231e0d4a-3edc-3c23-8af2-c554b8c9c16c"
+        }
+    ],
+    "rules": {
+        "gamertag": [],
+        "xuid": [],
+        "uuid": [],
+        "clientIds": [],
+        "ip": []
+    }
+}

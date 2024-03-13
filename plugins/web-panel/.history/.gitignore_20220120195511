@@ -1,0 +1,7 @@
+
+/node_modules
+/releases
+*.js
+!src/gui/app.js
+!src/gui/scripts/*.js
+./history/*

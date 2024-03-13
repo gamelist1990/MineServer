@@ -1,0 +1,45 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Removes Vanilla RTX water texture, leading to more transparent water and clearer relfections.\nFeatures an option for a mix of clear and vanilla water.\nVersion 3.0.0",
+        "name": "Clear Water Add-On",
+        "uuid": "efcee896-bf0e-4026-9964-3715c50980b6",
+        "version": [
+            3,
+            0,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            16,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "description": "vanillartxcw",
+            "type": "resources",
+            "uuid": "299eb779-3187-41a9-963d-718a04cd040e",
+            "version": [
+                3,
+                0,
+                0
+            ]
+        }
+    ],
+    "subpacks": [
+        {
+            "folder_name": "1",
+            "name": "Vanilla Mix",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "0",
+            "name": "Default",
+            "memory_tier": 1
+        }
+    ],
+    "capabilities": [
+        "raytraced"
+    ]
+}

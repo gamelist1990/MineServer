@@ -1,0 +1,8 @@
+{
+  "name": "ping",
+  "version": "0.0.0",
+  "description": "Adds ping command",
+  "main": "index.js",
+  "author": "mikhaillav",
+  "license": "MIT"
+}
